@@ -13,7 +13,7 @@
 - [EF SET](https://www.efset.org/cert/P48WfC) English level B1 Intermediate (45/100 on the EF SET score scale)
 
 📫 How to reach me:
-- Telegram: [@NataSNV](t.me/NataSNV)
+- Telegram: [@NataSNV](https://t.me/NataSNV)
 
 <!--
 **NatalliaSNV/NatalliaSNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
