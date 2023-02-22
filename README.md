@@ -4,7 +4,7 @@
 
 📁 My projects:
 
-- [Online-store](https://ap-est.github.io/Online-Store/) ([Pull Request (https://github.com/AP-Est/Online-Store/pull/29)]) for buy products, things and so on (I made with project with study partner).
+- [Online-store](https://ap-est.github.io/Online-Store/) ([Pull Request](https://github.com/AP-Est/Online-Store/pull/29)) for buy products, things and so on (I made with project with study partner).
 - [Gem Puzzle](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/gem-puzzle/) Classic game - goal is to arrange moving numbered tiles by order.
 - [SongBird](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/songbird/main.html) Quiz for recognizing birds by their voices.
 - [Online ZOO](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider, Burger menu, PopUp and etc.
