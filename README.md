@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Natallia
 
-🌱 I’m studying web development at [RSSchool](https://rs.school/).
+🌱 I'm a Frontend Developer.
 
 📁 My projects:
 
@@ -11,6 +11,7 @@
 
 📋 Certificates:
 - [EF SET](https://www.efset.org/cert/P48WfC) English level B1 Intermediate (45/100 on the EF SET score scale)
+at [RSSchool](https://rs.school/)
 
 📫 How to reach me:
 - Telegram: [@NataSNV](https://t.me/NataSNV)
