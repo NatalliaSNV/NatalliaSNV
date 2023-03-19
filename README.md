@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Natallia
 
-🌱 I'm a Frontend Developer.
+🌱 I'm a Frontend Developer
 
 📁 My projects:
 
-- [Restaurant Table Booking Service](https://vagon.herokuapp.com/)([Pull Request][(https://github.com/AP-Est/Online-Store/pull/29)](https://github.com/AP-Est/RestTableBooking/pull/37)) for booking tables in the restaurant, adding reviews and so on (I made with project with two study partners in one months).
+- [Restaurant Table Booking Service](https://vagon.herokuapp.com/)([Pull Request](https://github.com/AP-Est/RestTableBooking/pull/37)) for booking tables in the restaurant, adding reviews and so on (I made with project with two study partners in one months).
 - [Online-store](https://ap-est.github.io/Online-Store/) ([Pull Request](https://github.com/AP-Est/Online-Store/pull/29)) for buy products, things and so on (I made with project with study partner in one month).
 - [Gem Puzzle](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/gem-puzzle/) Classic game - goal is to arrange moving numbered tiles by order.
 - [SongBird](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/songbird/main.html) Quiz for recognizing birds by their voices.
