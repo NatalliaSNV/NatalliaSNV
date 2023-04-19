@@ -2,7 +2,7 @@
 
 🌱 I'm a Frontend Developer
 
-📁 My projects:
+📁 My projects JS/TS:
 
 - [Restaurant Table Booking Service](https://vagon.herokuapp.com/)([Pull Request](https://github.com/AP-Est/RestTableBooking/pull/37)) for booking tables in the restaurant, adding reviews and so on (I made this project with two study partners in one months).
 - [Online-store](https://ap-est.github.io/Online-Store/) ([Pull Request](https://github.com/AP-Est/Online-Store/pull/29)) for buy products, things and so on (I made this project with study partner in one month).
@@ -11,6 +11,9 @@
 - [Online ZOO](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider, Burger menu, PopUp and etc.
 
 📁 React:
+
+- [To-do List React](https://github.com/NatalliaSNV/Todo-List-React) - the application that can help you to plan your things to do
+- [The Store React](https://github.com/NatalliaSNV/The-Store-React) - the store with filtering products by size
 
 
 📁 Angular:
