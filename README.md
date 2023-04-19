@@ -1,11 +1,13 @@
 ### Hi there 👋 I'm Natallia
 
+🌱 I'm a Frontend Developer
+
+
+
 🔭 Experience
 
 - more than 2 years in product company as physicist-algorithmist (C++)
 - about 1 years as frontend-developer 
-
-🌱 I'm a Frontend Developer
 
 📁 My projects JS/TS:
 
