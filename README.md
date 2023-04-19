@@ -10,6 +10,11 @@
 - [SongBird](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/songbird/main.html) Quiz for recognizing birds by their voices.
 - [Online ZOO](https://rolling-scopes-school.github.io/natalliasnv-JSFE2022Q3/online-zoo/pages/main/) Two-page ZOO website with adaptive layout, Slider, Burger menu, PopUp and etc.
 
+📁 React:
+
+
+📁 Angular:
+
 📋 Certificates:
 - [RS School Certificate](https://app.rs.school/certificate/0cw6b30z) Javascript/Front-end
 - [EF SET](https://www.efset.org/cert/P48WfC) English level B1 Intermediate (45/100 on the EF SET score scale)
