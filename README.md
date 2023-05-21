@@ -26,6 +26,7 @@
 📁 Angular:
 
 - [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation
+- [Routing Angular](https://natalliasnv.github.io/Routing-Angular/) (repository - [Routing-Angular](https://github.com/NatalliaSNV/Routing-Angular)) - the application with three pages and other features. When you are login page posts is available.
 
 📋 Certificates:
 - [RS School Certificate](https://app.rs.school/certificate/0cw6b30z) Javascript/Front-end
