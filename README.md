@@ -19,14 +19,15 @@
 
 📁 React:
 
-- [To-do List React](https://github.com/NatalliaSNV/Todo-List-React) - the application that can help you to plan your things to do
-- [The Store React](https://github.com/NatalliaSNV/The-Store-React) - the store with filtering products by size
+- [To-do List React](https://github.com/NatalliaSNV/Todo-List-React) - the application that can help you to plan your things to do.
+- [The Store React](https://github.com/NatalliaSNV/The-Store-React) - the store with filtering products by size.
 
 
 📁 Angular:
 
-- [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation
+- [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation.
 - [Routing Angular](https://natalliasnv.github.io/Routing-Angular/) (repository - [Routing-Angular](https://github.com/NatalliaSNV/Routing-Angular)) - the application with three pages and other features. When you are login page posts is available.
+- [ToDo List and HttpClient](https://natalliasnv.github.io/ToDoList-HttpClient/) (repository - [ToDoList-HttpClient](https://github.com/NatalliaSNV/ToDoList-HttpClient)) - the application todo list and emulation of working with server.
 
 📋 Certificates:
 - [RS School Certificate](https://app.rs.school/certificate/0cw6b30z) Javascript/Front-end
