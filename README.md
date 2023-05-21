@@ -9,7 +9,7 @@
 - more than 2 years in product company as physicist-algorithmist (C++)
 - about 1 years as frontend-developer 
 
-📁 My projects JS/TS:
+📁 My pet-projects JS/TS:
 
 - [Restaurant Table Booking Service](https://vagon.herokuapp.com/)([Pull Request](https://github.com/AP-Est/RestTableBooking/pull/37)) for booking tables in the restaurant, adding reviews and so on (I made this project with two study partners in one months).
 - [Online-store](https://ap-est.github.io/Online-Store/) ([Pull Request](https://github.com/AP-Est/Online-Store/pull/29)) for buy products, things and so on (I made this project with study partner in one month).
@@ -28,6 +28,7 @@
 - [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation.
 - [Routing Angular](https://natalliasnv.github.io/Routing-Angular/) (repository - [Routing-Angular](https://github.com/NatalliaSNV/Routing-Angular)) - the application with three pages and other features. When you are login page posts is available.
 - [ToDo List and HttpClient](https://natalliasnv.github.io/ToDoList-HttpClient/) (repository - [ToDoList-HttpClient](https://github.com/NatalliaSNV/ToDoList-HttpClient)) - the application todo list and emulation of working with server.
+- [Simple ToDo List](https://natalliasnv.github.io/ToDo-List/) (repository - [ToDo-List](https://github.com/NatalliaSNV/ToDo-List)) - the application todo list.
 
 📋 Certificates:
 - [RS School Certificate](https://app.rs.school/certificate/0cw6b30z) Javascript/Front-end
