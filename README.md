@@ -25,6 +25,8 @@
 
 📁 Angular:
 
+- [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation
+
 📋 Certificates:
 - [RS School Certificate](https://app.rs.school/certificate/0cw6b30z) Javascript/Front-end
 - [EF SET](https://www.efset.org/cert/P48WfC) English level B1 Intermediate (45/100 on the EF SET score scale)
