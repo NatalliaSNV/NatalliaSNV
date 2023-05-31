@@ -26,7 +26,7 @@
 📁 Angular:
 
 - [Tour of Heroes](https://natalliasnv.github.io/Tour-of-heroes-Angular/heroes) (repository - [Tour-of-heroes-Angular
-](https://github.com/NatalliaSNV/Tour-of-heroes-Angular) - the angular application. You can see the list of heroes, top heroes, information about certain hero. Also you can add heroes, delete, change their names, search them.
+](https://github.com/NatalliaSNV/Tour-of-heroes-Angular)) - the angular application. You can see the list of heroes, top heroes, information about certain hero. Also you can add heroes, delete, change their names, search them.
 - [Forms Angular](https://natalliasnv.github.io/Forms-Angular/) (repository - [Forms-Angular](https://github.com/NatalliaSNV/Forms-Angular)) - the application with form where you need to add email, password, choose your country, add city or automatically add it by click the button, add your skills. This form with validation.
 - [Routing Angular](https://natalliasnv.github.io/Routing-Angular/) (repository - [Routing-Angular](https://github.com/NatalliaSNV/Routing-Angular)) - the application with three pages and other features. When you are login page posts is available.
 - [ToDo List and HttpClient](https://natalliasnv.github.io/ToDoList-HttpClient/) (repository - [ToDoList-HttpClient](https://github.com/NatalliaSNV/ToDoList-HttpClient)) - the application todo list and emulation of working with server.
